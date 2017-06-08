@@ -1,2 +1,2 @@
 # Backpacks
-Extra storage!!
+Bukkit/Spigot plugin for extra storage.
